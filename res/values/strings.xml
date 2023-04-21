@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="newgame">New Game</string>
+    <string name="MainText">I am here!</string>
+    <string name="emptydot">.</string>
+    <string name="StatusText">Player 1 turn</string>
+    <string name="Computer">Computer Oponent</string>
+    <string name="PlayerName1">Player 1 name</string>
+    <string name="PlayerName2">Player 2 name</string>
+</resources>
